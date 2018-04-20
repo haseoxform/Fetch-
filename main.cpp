@@ -14,12 +14,6 @@
 #include <nav_msgs/Odometry.h>
 #include <visualization_msgs/Marker.h>
 
-#include "compsci403_assignment5/CheckPointSrv.h"
-#include "compsci403_assignment5/GetFreePathSrv.h"
-#include "compsci403_assignment5/ObstacleLaserScanSrv.h"
-#include "compsci403_assignment5/GetCommandVelSrv.h"
-#include "compsci403_assignment5_helper/GetTransformationSrv.h"
-
 using Eigen::Matrix3f;
 using Eigen::MatrixXf;
 using Eigen::MatrixXd;
