@@ -1,0 +1,6 @@
+sensor_msgs/LaserScan laser_scan
+float32 v
+float32 w
+---
+bool is_obstacle
+float32 free_path_length
